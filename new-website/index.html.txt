@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>News Site</title>
+</head>
+<body>
+<main> 
+<article> 
+<h2>News Headline</h2> 
+<p>Some news content...</p> 
+</article> 
+<aside> 
+<h3>Related Articles</h3> 
+<ul> 
+<li>...</li> 
+</ul> 
+</aside> 
+</main>
+</body>
+</html>
